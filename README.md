@@ -114,7 +114,7 @@ npm run dev
 This repository includes everything required to create a functional AI-powered spreadsheet with web access:
 
 ### Backend ([`backend/`](./backend))
-The core backend logic, powered by tavily, watsonx.ai, and LangGraph:
+The core backend logic, powered by tavily, LLMs, and LangGraph:
 - [`graph.py`](./backend/graph.py) – Defines the agent architecture, state management, and processing nodes.
 
 ### Frontend ([`ui/`](./ui))
